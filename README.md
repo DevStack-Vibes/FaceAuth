@@ -1,2 +1,0 @@
-# FaceAuth
-Face Recognition App
